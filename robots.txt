@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sawhney-medha.github.io/al-folio/sitemap.xml
+Sitemap: https://sawhney-medha.github.io/blog//sitemap.xml
