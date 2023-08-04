@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Computer Science Ph.D. Candidate at Virginia Tech
 
 profile:
   align: right
-  image: 1.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
  
 
