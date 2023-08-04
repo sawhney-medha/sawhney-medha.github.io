@@ -6,7 +6,7 @@ subtitle: Computer Science Ph.D. Candidate at Virginia Tech
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
  
 
