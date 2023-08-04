@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Computer Science Ph.D. Candidate at Virginia Tech
+subtitle: Computer Science Ph.D. Student at Virginia Tech
 
 profile:
   align: right
