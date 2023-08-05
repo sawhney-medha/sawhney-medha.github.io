@@ -2,64 +2,69 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Medha Sawhney
+    - name: Email
+      value: medha@vt.edu
+    #- name: Date of Birth
+    #  value: 14th March 1879
+    #- name: Languages
+    #  value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Computer Science
+      institution: Virginia Tech, Virginia, USA
+      year: 2021-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 4.0"
+    - title: Master of Science Computer Science
+      institution: Virginia Tech, Virginia, USA
+      year: 2021-2023
+    - title: Bachelors in Technology (B.Tech.) in Electronics and Communications Engineering
+      institution: Manipal Institue of Technology, MAHE, Manipal, India
+      year: 2016-2020
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Research Assistant
+      institution: Science Guided Machine Learning Lab, Virginia Tech
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
+        - Constructed an algorithm to detect microscopic bacteria cells with a 95% precision by utilizing artificially generated motion and temporal cues for an NSF funded cancer research project. Challenge: Hard to distinguish from background media.
+        - Engineered an approach to predict force applied by a human cell on underlying fiber intersections using multi-object detection techniques in Computer Vision like RetinaNet.
+        - Established a pipeline to convert phased-out microscopic imagery of human cell environment to fluorescent images using Pix2Pix and formulated statistical techniques to quantify the results
+    - title: Graduate Research Assistant
       institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Developed a Computer Vision solution to detect plant wilting. Improved performance accuracy by 10% with traditional methods like Support Vector Machines and feature engineering. Challenges: class imbalance, small dataset, images of varying resolutions
+    - title: Research Intern 
+      institution: IIIT Hyderabad, Hyderabad, India
+      year: May 2019 - July 2019
       description:
+        - Designed and deployed an object recognition tool on NVIDIA Jetson TX2 board, funded by Defence Organisation (DRDO), India.
+        - Successfully identified landmarks in aerial imagery also from viewpoints different than trained on, using YOLO and Deep Learning
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    
+- title: Corporate Experience
+  type: time_table
+  contents:
+    - title: Machine Learning Engineering Intern
+      institution: Twitter
+      year: 2022
+      description:
+        - End to end development and deployment of a broadly applicable ML model using XGBoost within the account health space
+        - Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift
+    - title: Machine Learning Engineer
+      institution: Hewlett-Packard R&D
+      year: 2020-2021 
+      location: Bangalore, India
+      description:
+        - Engineered a self-resolution tool for PC issues, with a 3x BLEU score, employing AWD-LSTM and Natural Language Processing.
+        - Designed and implemented a dynamic troubleshooting tool for printer issues based on Recurrent Neural Networks
+        - Applied optimization strategies to build hardware-efficient and reliable ML models, including a) identifying performance bottlenecks using CUDA Kernel Profiling with NVIDIA Nsight Systems & Compute and b) examining ML models for bias
 
 - title: Open Source Projects
   type: time_table
