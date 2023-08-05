@@ -171,7 +171,6 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-   news_scrollable: true
   projects:
     output: true
     permalink: /projects/:path/
