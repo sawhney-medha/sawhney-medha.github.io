@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Interning at Twitter as a Machine Learning Engineering intern this Summer!
+:sparkles: Interning at Twitter as a Machine Learning Engineering Intern this Summer!

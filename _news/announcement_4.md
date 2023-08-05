@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My work on bacteria tracking has been accepted to the CV4Aimals Workshop at CVPR 2023 for an oral and poster presentation. :smile:
+:scroll: Excited to have received the opportunity to present my work on Bacteria Tracking at CVPR 2023 as part of the CV4Animals Workshop! :smile:
