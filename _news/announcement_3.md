@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I converted from MS to PhD Program! :sparkles: :smile:
+:woman_student: Embarked on a Ph.D. Journey at Virginia Tech! 
