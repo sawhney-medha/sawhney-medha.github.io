@@ -103,19 +103,19 @@
           contents:
            - Issued by MHRD Department, Government of India
 
-- title: Academic Interests
-  type: nested_list
+- title: Volunteer Work and Leadership
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  - title: ML Mentor at AnitaB.org
+    year: 2022
+  - title: External Reviewer at KDD
+    year: 2022
+  - title: Student Mentor at GirlScript Foundation
+    year: 12/2018-01/2019
+    description: 
+      - Mentored 150+ students under the GirlScript Manipal Winter Programme on C++, Java, & Object Detection using OpenCV
+  - title: Coding Team Head
+    year: 2018-2019
+    description: 
+     - Guided a team of 30+ members as Coding Head, RoboManipal, official robotics student project team at MIT, Manipal
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
