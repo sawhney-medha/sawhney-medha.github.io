@@ -71,23 +71,37 @@
         - Applied optimization strategies to build hardware-efficient and reliable ML models, including a) identifying performance bottlenecks using CUDA Kernel Profiling with NVIDIA Nsight Systems & Compute and b) examining ML models for bias
         - "R&D Intern, Machine Learning Team:  01/2020 - 09/2020"
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: June 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - title: Grace Hopper Celebration Student Scholar Award
+          contents:
+            - Issued by AnitaB.org and Virginia Tech 
+    - year: Dec 2018
       items: 
-        - Max Planck Medal
+        - title: 2nd Position at OK Google, Let's Build Hackathon
+          contents:
+            - Women Tech Makers(WTM) Manipal Winter Fest'18
+    - year: oct 2018
+      items: 
+        - Best Paper Presentation Award at ICECNS-GOA 2018
+    - year: Oct 2017
+      items:
+        - title: 2nd Postion at Advanced Robotics Challenge for Tetris Solving Bot
+          contents:
+           - World Robot Olympiad Association (WRO) 
+    - year: June 2015
+      items: 
+        - title: Honourable Mention in United Nations Women Committee 
+          contents:
+           - <a href="https://www.lmgmun.in/index.php"> LMGMUN</a>, 2015
+    - year: Jan 2014
+      items: 
+        - title: INSPIRE Scholarship
+          contents:
+           - Issued by MHRD Department, Government of India
 
 - title: Academic Interests
   type: nested_list
