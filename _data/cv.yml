@@ -29,20 +29,23 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: Science Guided Machine Learning Lab, Virginia Tech
+      institution: [Science Guided Machine Learning Lab, Virginia Tech] (https://people.cs.vt.edu/karpatne/)
       year: 2021
+      location: Blacksburg, Virginia, US
       description:
-        - Constructed an algorithm to detect microscopic bacteria cells with a 95% precision by utilizing artificially generated motion and temporal cues for an NSF funded cancer research project. Challenge: Hard to distinguish from background media.
+        - "Constructed an algorithm to detect microscopic bacteria cells with a 95% precision by utilizing artificially generated motion and temporal cues for an NSF funded cancer research project. Challenge: Hard to distinguish from background media."
         - Engineered an approach to predict force applied by a human cell on underlying fiber intersections using multi-object detection techniques in Computer Vision like RetinaNet.
         - Established a pipeline to convert phased-out microscopic imagery of human cell environment to fluorescent images using Pix2Pix and formulated statistical techniques to quantify the results
     - title: Graduate Research Assistant
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 2021
+      institution: [Informatics Lab, University Libraries at Virginia Tech](https://lib.vt.edu/research-teaching/data-services.html)
+      year: August,2021 - Decemeber, 2021
+      location: Blacksburg, Virginia, US
       description:
-        - Developed a Computer Vision solution to detect plant wilting. Improved performance accuracy by 10% with traditional methods like Support Vector Machines and feature engineering. Challenges: class imbalance, small dataset, images of varying resolutions
+        - "Developed a Computer Vision solution to detect plant wilting. Improved performance accuracy by 10% with traditional methods like Support Vector Machines and feature engineering. Challenges: class imbalance, small dataset, images of varying resolutions"
     - title: Research Intern 
-      institution: IIIT Hyderabad, Hyderabad, India
+      institution: [CVIT Lab, IIIT Hyderabad](https://cvit.iiit.ac.in/)
       year: May 2019 - July 2019
+      location: Hyderabad, India
       description:
         - Designed and deployed an object recognition tool on NVIDIA Jetson TX2 board, funded by Defence Organisation (DRDO), India.
         - Successfully identified landmarks in aerial imagery also from viewpoints different than trained on, using YOLO and Deep Learning
@@ -52,19 +55,22 @@
   type: time_table
   contents:
     - title: Machine Learning Engineering Intern
-      institution: Twitter
-      year: 2022
+      institution: [Twitter] (https://about.twitter.com/en)
+      year: June,2022-August, 2022
+      location: Blacksburg, Virginia (Remote)
       description:
         - End to end development and deployment of a broadly applicable ML model using XGBoost within the account health space
-        - Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift
+        - "Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift"
     - title: Machine Learning Engineer
-      institution: Hewlett-Packard R&D
+      institution: [Hewlett-Packard R&D] (https://www.hp.com/us-en/hp-information.html)
       year: 2020-2021 
       location: Bangalore, India
       description:
         - Engineered a self-resolution tool for PC issues, with a 3x BLEU score, employing AWD-LSTM and Natural Language Processing.
         - Designed and implemented a dynamic troubleshooting tool for printer issues based on Recurrent Neural Networks
         - Applied optimization strategies to build hardware-efficient and reliable ML models, including a) identifying performance bottlenecks using CUDA Kernel Profiling with NVIDIA Nsight Systems & Compute and b) examining ML models for bias
+        - title: R&D Intern, Machine Learning Team
+          year: Jan 2020 - Sept 2020
 
 - title: Open Source Projects
   type: time_table
