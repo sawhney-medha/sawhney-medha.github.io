@@ -1,10 +1,10 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Medha Sawhney
-    - name: Email
-      value: medha@vt.edu
+#- title: Medha Sawhney
+ # type: map
+  #contents:
+    #- name: Full Name
+    #  value: Medha Sawhney
+   # - name: Email
+    #  value: medha@vt.edu
     #- name: Date of Birth
     #  value: 14th March 1879
     #- name: Languages
@@ -18,12 +18,19 @@
       year: 2021-Present
       description:
         - "GPA: 4.0"
-    - title: Master of Science Computer Science
+        - Advisor:<a href="https://people.cs.vt.edu/karpatne/"> Dr. Anuj Karpatne </a>
+    - title: Master of Science (MS) Thesis Computer Science
       institution: <a href="https://cs.vt.edu/"> Virginia Tech, Virginia, USA </a>
       year: 2021-2023
+      description:
+        - "GPA: 4.0"
+        - Advisor:<a href="https://people.cs.vt.edu/karpatne/"> Dr. Anuj Karpatne </a>
     - title: Bachelors in Technology (B.Tech.) in Electronics and Communications Engineering
       institution: <a href="https://manipal.edu/mit/program-list/btech/btech-electronics-and-communication-engineering.html">  Manipal Institue of Technology, MAHE, Manipal, India </a>
       year: 2016-2020
+      description:
+        - "GPA: 8.34/10.0"
+        - Member and Head of Coding team of official student robotics club. 
 
 - title: Academic Experience
   type: time_table
@@ -31,7 +38,7 @@
     - title: Graduate Research Assistant
       institution: <a href="https://people.cs.vt.edu/karpatne/"> Science Guided Machine Learning Lab, Virginia </a>
       year: 2021
-      location: Blacksburg, Virginia, US
+      location: Blacksburg, VA, US
       description:
         - "Constructed an algorithm to detect microscopic bacteria cells with a 95% precision by utilizing artificially generated motion and temporal cues for an NSF funded cancer research project. Challenge: Hard to distinguish from background media."
         - Engineered an approach to predict force applied by a human cell on underlying fiber intersections using multi-object detection techniques in Computer Vision like RetinaNet.
@@ -39,7 +46,7 @@
     - title: Graduate Research Assistant
       institution: <a href="https://lib.vt.edu/research-teaching/data-services.html"> Informatics Lab, University Libraries at Virginia Tech </a>
       year: 08/2021 - 12/2021
-      location: Blacksburg, Virginia, US
+      location: Blacksburg, VA, US
       description:
         - "Developed a Computer Vision solution to detect plant wilting. Improved performance accuracy by 10% with traditional methods like Support Vector Machines and feature engineering. Challenges: class imbalance, small dataset, images of varying resolutions"
     - title: Research Intern 
@@ -111,7 +118,7 @@
   - title: External Reviewer at KDD
     year: 2022
   - title: Student Mentor at GirlScript Foundation
-    year: 12/2018-01/2019
+    year: 2018
     description: 
       - Mentored 150+ students under the GirlScript Manipal Winter Programme on C++, Java, & Object Detection using OpenCV
   - title: Coding Team Head
