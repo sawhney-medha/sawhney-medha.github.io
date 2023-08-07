@@ -14,6 +14,7 @@ nav_order: 1
     Publications are listed according to their type and in reverse chronological order.
     For an updated list please check on
     <a href="https://scholar.google.com/citations?user=o9Gj0dMAAAAJ&hl=en">Google Scholar</a>.
+    * denotes equal contribution
   </p>  
 
  
