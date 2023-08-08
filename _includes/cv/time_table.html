@@ -49,6 +49,7 @@
               <div class="ml-1 ml-md-4 ">{{ content.maindescription }}</div>
             {% endif %}
             {% if content.description %}
+            <details class="ml-1 ml-md-4" style="font-size: 0.95rem;"><summary>Info</summary>
               <ul class="items">
                 {% for item in content.description %}
                   <li>
@@ -65,6 +66,7 @@
                   </li>
                 {% endfor %}
               </ul>
+              </details>
             {% endif %}
             {% if content.items %}
               <ul class="items">

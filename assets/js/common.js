@@ -9,7 +9,6 @@ $(document).ready(function() {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass('open');
   });
   $('a').removeClass('waves-effect waves-light');
-
   // bootstrap-toc
   if($('#toc-sidebar').length){
     var navSelector = "#toc-sidebar";
