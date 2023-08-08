@@ -30,7 +30,7 @@
       year: 2016-2020
       description:
         - "GPA: 8.34/10.0"
-        - Member and Head of Coding team of official student robotics club. 
+        - Member and Head of Coding team of official student robotics club. <a href="https://robomanipal.com/#/" rel="external nofollow noopener" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
 - title: Academic Experience
   type: time_table
@@ -81,33 +81,27 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: June 2022
-      items: 
-        - title: Grace Hopper Celebration Student Scholar Award
-          contents:
+    - year: June 2022 
+      title: Grace Hopper Celebration Student Scholar Award
+      maindescription:
             - Issued by AnitaB.org and Virginia Tech 
     - year: Dec 2018
-      items: 
-        - title: 2nd Position at OK Google, Let's Build Hackathon
-          contents:
+      title: 2nd Position at OK Google, Let's Build Hackathon
+      maindescription:
             - Women Tech Makers(WTM) Manipal Winter Fest'18
     - year: oct 2018
-      items: 
-        - Best Paper Presentation Award at ICECNS-GOA 2018
+      title: Best Paper Presentation Award at ICECNS-GOA 2018
     - year: Oct 2017
-      items:
-        - title: 2nd Postion at Advanced Robotics Challenge for Tetris Solving Bot
-          contents:
-           - World Robot Olympiad Association (WRO) 
+      title: 2nd Postion at Advanced Robotics Challenge for Tetris Solving Bot
+      maindescription:
+           - World Robot Olympiad Association (WRO) <a href="https://wro-association.org/" rel="external nofollow noopener" target="_blank"><i class="fas fa-external-link-alt"></i></a>
     - year: June 2015
-      items: 
-        - title: Honourable Mention in United Nations Women Committee 
-          contents:
-           - <a href="https://www.lmgmun.in/index.php"> LMGMUN</a>, 2015
+      title: Honourable Mention in United Nations Women Committee 
+      maindescription:
+           - LMGMUN 2015 <a href="https://www.lmgmun.in/index.php" rel="external nofollow noopener" target="_blank"><i class="fas fa-external-link-alt"></i></a>
     - year: Jan 2014
-      items: 
-        - title: INSPIRE Scholarship
-          contents:
+      title: INSPIRE Scholarship
+      maindescription:
            - Issued by MHRD Department, Government of India
 
 - title: Volunteer Work and Leadership
@@ -121,8 +115,17 @@
     year: DEC 2018 - JAN 2019
     description: 
       - Mentored 150+ students under the GirlScript Manipal Winter Programme on C++, Java, & Object Detection using OpenCV
-  - title: Coding Team Head
+  - title: Coding Team Head at RoboManipal <a href="https://robomanipal.com/#/" rel="external nofollow noopener" target="_blank"><i class="fas fa-external-link-alt"></i></a>
     year: 2018-2019
     description: 
      - Guided a team of 30+ members as Coding Head, RoboManipal, official robotics student project team at MIT, Manipal
-
+- title: Technical Skills
+  type: time_table
+  contents:
+    - maindescription: 
+       - PyTorch, TensorFlow/Keras, Scikit-Learn
+      year: DL/AI
+    - maindescription: Python, Java, MATLAB
+      year: Coding
+    - maindescription: Linux, Docker, Kubernetes
+      year: Infra
