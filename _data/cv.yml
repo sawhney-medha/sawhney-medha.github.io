@@ -14,19 +14,19 @@
   type: time_table
   contents:
     - title: Ph.D. Computer Science
-      institution: <a href="https://cs.vt.edu/"> Virginia Tech, Virginia, USA </a>
+      institution: <a href="https://cs.vt.edu/"> Virginia Tech </a>
       year: 2021-Present
       description:
         - "GPA: 4.0"
         - Advisor:<a href="https://people.cs.vt.edu/karpatne/"> Dr. Anuj Karpatne </a>
-    - title: Master of Science (MS) Thesis Computer Science
-      institution: <a href="https://cs.vt.edu/"> Virginia Tech, Virginia, USA </a>
+    - title: MS Thesis Computer Science
+      institution: <a href="https://cs.vt.edu/"> Virginia Tech </a>
       year: 2021-2023
       description:
         - "GPA: 4.0"
         - Advisor:<a href="https://people.cs.vt.edu/karpatne/"> Dr. Anuj Karpatne </a>
-    - title: Bachelors in Technology (B.Tech.) in Electronics and Communications Engineering
-      institution: <a href="https://manipal.edu/mit/program-list/btech/btech-electronics-and-communication-engineering.html">  Manipal Institue of Technology, MAHE, Manipal, India </a>
+    - title: B.Tech. Electronics and Communications Engineering
+      institution: <a href="https://manipal.edu/mit/program-list/btech/btech-electronics-and-communication-engineering.html">  Manipal Institue of Technology, India </a>
       year: 2016-2020
       description:
         - "GPA: 8.34/10.0"
@@ -36,8 +36,8 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: <a href="https://people.cs.vt.edu/karpatne/"> Science Guided Machine Learning Lab, Virginia </a>
-      year: 2021
+      institution: <a href="https://people.cs.vt.edu/karpatne/"> Science Guided Machine Learning Lab, Virginia Tech </a>
+      year: Since 2021
       location: Blacksburg, VA, US
       description:
         - "Constructed an algorithm to detect microscopic bacteria cells with a 95% precision by utilizing artificially generated motion and temporal cues for an NSF funded cancer research project. Challenge: Hard to distinguish from background media."
@@ -45,13 +45,13 @@
         - Established a pipeline to convert phased-out microscopic imagery of human cell environment to fluorescent images using Pix2Pix and formulated statistical techniques to quantify the results
     - title: Graduate Research Assistant
       institution: <a href="https://lib.vt.edu/research-teaching/data-services.html"> Informatics Lab, University Libraries at Virginia Tech </a>
-      year: 08/2021 - 12/2021
+      year: AUG 2021 - DEC 2021
       location: Blacksburg, VA, US
       description:
         - "Developed a Computer Vision solution to detect plant wilting. Improved performance accuracy by 10% with traditional methods like Support Vector Machines and feature engineering. Challenges: class imbalance, small dataset, images of varying resolutions"
     - title: Research Intern 
       institution: <a href="https://cvit.iiit.ac.in/" title="CVIT Lab">CVIT Lab, IIIT Hyderabad</a> 
-      year: 05/2019 - 07/2019
+      year: MAY 2019 - JUL 2019
       location: Hyderabad, India
       description:
         - Designed and deployed an object recognition tool on NVIDIA Jetson TX2 board, funded by Defence Organisation (DRDO), India.
@@ -63,14 +63,14 @@
   contents:
     - title: Machine Learning Engineering Intern
       institution: <a href="https://about.twitter.com/en"> Twitter </a>
-      year: 06/2022 - 08/2022
+      year: JUN 2022 - AUG 2022
       location: US (Remote)
       description:
         - End to end development and deployment of a broadly applicable ML model using XGBoost within the account health space
         - "Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift"
     - title: Machine Learning Engineer
       institution: <a href="https://www.hp.com/us-en/hp-information.html"> Hewlett-Packard R&D </a>
-      year: 2020-2021 
+      year: JAN 2020- JUN 2021 
       location: Bangalore, India
       description:
         - Engineered a self-resolution tool for PC issues, with a 3x BLEU score, employing AWD-LSTM and Natural Language Processing.
@@ -118,7 +118,7 @@
   - title: External Reviewer at KDD
     year: 2022
   - title: Student Mentor at GirlScript Foundation
-    year: 2018
+    year: DEC 2018 - JAN 2019
     description: 
       - Mentored 150+ students under the GirlScript Manipal Winter Programme on C++, Java, & Object Detection using OpenCV
   - title: Coding Team Head
