@@ -9,6 +9,14 @@ $(document).ready(function() {
     $(this).parent().parent().find(".abstract.hidden.open").toggleClass('open');
   });
   $('a').removeClass('waves-effect waves-light');
+ 
+// add toggle functionality to info button
+$(document).ready(function() {
+  // add toggle functionality to description buttons
+  $('.toggle-btn').click(function() {
+    $(this).next('.description-block.hidden').toggleClass('open');
+  });
+});
 
   // bootstrap-toc
   if($('#toc-sidebar').length){
