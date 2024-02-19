@@ -18,12 +18,16 @@ nav_order: 1
   </p>  
 
  
-
+  <h4><b>Journal Papers</b></h4>
+  {% bibliography -f papers -q @*[category=JOurnal Papers]  %}
+  
+  <h4><b>Workshop Papers</b></h4>
+  {% bibliography -f papers -q @*[category=Workshop Papers]  %}
+  
   <h4><b>Preprints</b></h4>
   {% bibliography -f papers -q @*[category=Preprints]  %}
 
-  <h4><b>Workshop Papers</b></h4>
-  {% bibliography -f papers -q @*[category=Workshop Papers]  %}
+
 
 <!--
 <h3><b>Conference Proceedings</b></h3>
