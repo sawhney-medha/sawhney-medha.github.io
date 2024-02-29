@@ -18,8 +18,8 @@ nav_order: 1
   </p>  
 
  
-  <h4><b>Journal Papers</b></h4>
-  {% bibliography -f papers -q @*[category=Journal Papers]  %}
+  <h4><b>Journal Publications</b></h4>
+  {% bibliography -f papers -q @*[category=Journal Publications]  %}
   
   <h4><b>Workshop Papers</b></h4>
   {% bibliography -f papers -q @*[category=Workshop Papers]  %}
