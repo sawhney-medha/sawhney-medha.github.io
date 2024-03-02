@@ -32,6 +32,27 @@
         - "GPA: 8.34/10.0"
         - Member and Head of Coding team of official student robotics club. <a href="https://robomanipal.com/#/" rel="external nofollow noopener" target="_blank"><i class="fas fa-external-link-alt"></i></a>
 
+    
+- title: Corporate Experience
+  type: time_table
+  contents:
+    - title: Machine Learning Engineering Intern
+      institution: <a href="https://about.twitter.com/en"> Twitter </a>
+      year: JUN 2022 - AUG 2022
+      location: US (Remote)
+      description:
+        - End to end development and deployment of a broadly applicable ML model using XGBoost within the account health space
+        - "Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift"
+    - title: Machine Learning Engineer
+      institution: <a href="https://www.hp.com/us-en/hp-information.html"> Hewlett-Packard R&D </a>
+      year: JAN 2020- JUN 2021 
+      location: Bangalore, India
+      description:
+        - Engineered a self-resolution tool for PC issues, with a 3x BLEU score, employing AWD-LSTM and Natural Language Processing.
+        - Designed and implemented a dynamic troubleshooting tool for printer issues based on Recurrent Neural Networks
+        - Applied optimization strategies to build hardware-efficient and reliable ML models, including a) identifying performance bottlenecks using CUDA Kernel Profiling with NVIDIA Nsight Systems & Compute and b) examining ML models for bias
+        - "R&D Intern, Machine Learning Team:  01/2020 - 09/2020"
+
 - title: Academic Experience
   type: time_table
   contents:
@@ -56,28 +77,7 @@
       description:
         - Designed and deployed an object recognition tool on NVIDIA Jetson TX2 board, funded by Defence Organisation (DRDO), India.
         - Successfully identified landmarks in aerial imagery also from viewpoints different than trained on, using YOLO and Deep Learning
-
-    
-- title: Corporate Experience
-  type: time_table
-  contents:
-    - title: Machine Learning Engineering Intern
-      institution: <a href="https://about.twitter.com/en"> Twitter </a>
-      year: JUN 2022 - AUG 2022
-      location: US (Remote)
-      description:
-        - End to end development and deployment of a broadly applicable ML model using XGBoost within the account health space
-        - "Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift"
-    - title: Machine Learning Engineer
-      institution: <a href="https://www.hp.com/us-en/hp-information.html"> Hewlett-Packard R&D </a>
-      year: JAN 2020- JUN 2021 
-      location: Bangalore, India
-      description:
-        - Engineered a self-resolution tool for PC issues, with a 3x BLEU score, employing AWD-LSTM and Natural Language Processing.
-        - Designed and implemented a dynamic troubleshooting tool for printer issues based on Recurrent Neural Networks
-        - Applied optimization strategies to build hardware-efficient and reliable ML models, including a) identifying performance bottlenecks using CUDA Kernel Profiling with NVIDIA Nsight Systems & Compute and b) examining ML models for bias
-        - "R&D Intern, Machine Learning Team:  01/2020 - 09/2020"
-
+        
 - title: Honors and Awards
   type: time_table
   contents:
@@ -107,6 +107,8 @@
 - title: Volunteer Work and Leadership
   type: time_table
   contents:
+  - title: Reviewer at AAAI'24 and CVPR'24 Workshop
+    year: 2024
   - title: Reviewer at IJCV
     year: 2023
   - title: ML Mentor at AnitaB.org
