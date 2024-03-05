@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:sparkles: Interning at <a href="[https://sites.google.com/vt.edu/imageomics-aaai-24/home?authuser=0](https://twitter.com/home)">Twitter</a>  as a Machine Learning Engineering Intern this Summer!
+:sparkles: Interning at <a href="https://twitter.com/home">Twitter</a>  as a Machine Learning Engineering Intern this Summer!
