@@ -36,12 +36,14 @@
 - title: Corporate Experience
   type: time_table
   contents:
-  - title: Deep Learning Intern
+    - title: Deep Learning Intern
       institution: <a href="https://www.nvidia.com/en-us/"> NVIDIA </a>
+      department: Deep Learning Focus Group
       year: MAY 2024 - AUG 2024
       location: Santa Clara
     - title: Machine Learning Engineering Intern
       institution: <a href="https://about.twitter.com/en"> Twitter </a>
+      department: ML Health Team
       year: JUN 2022 - AUG 2022
       location: US (Remote)
       description:
@@ -49,6 +51,7 @@
         - "Boosted Key performance indicators by 74%. Challenges: Data imbalance, feature sparsity, enormous data, data distribution drift"
     - title: Machine Learning Engineer
       institution: <a href="https://www.hp.com/us-en/hp-information.html"> Hewlett-Packard R&D </a>
+      department: R&D Data Science Team
       year: JAN 2020- JUN 2021 
       location: Bangalore, India
       description:
@@ -61,7 +64,8 @@
   type: time_table
   contents:
     - title: Graduate Research Assistant
-      institution: <a href="https://people.cs.vt.edu/karpatne/"> Science Guided Machine Learning Lab, Virginia Tech </a>
+      institution: <a href="https://cs.vt.edu/"> Virginia Tech </a> 
+      department: <a href="https://people.cs.vt.edu/karpatne/"> Kowledge Guided Machine Learning Lab</a>
       year: Since 2021
       location: Blacksburg, VA, US
       description:
@@ -69,13 +73,15 @@
         - Engineered an approach to predict force applied by a human cell on underlying fiber intersections using multi-object detection techniques in Computer Vision like RetinaNet.
         - Established a pipeline to convert phased-out microscopic imagery of human cell environment to fluorescent images using Pix2Pix and formulated statistical techniques to quantify the results
     - title: Graduate Research Assistant
-      institution: <a href="https://lib.vt.edu/research-teaching/data-services.html"> Informatics Lab, University Libraries at Virginia Tech </a>
+      institution: <a href="https://cs.vt.edu/"> Virginia Tech </a> 
+      department:  <a href="https://lib.vt.edu/research-teaching/data-services.html"> Informatics Lab, University Libraries</a>
       year: AUG 2021 - DEC 2021
       location: Blacksburg, VA, US
       description:
         - "Developed a Computer Vision solution to detect plant wilting. Improved performance accuracy by 10% with traditional methods like Support Vector Machines and feature engineering. Challenges: class imbalance, small dataset, images of varying resolutions"
     - title: Research Intern 
-      institution: <a href="https://cvit.iiit.ac.in/" title="CVIT Lab">CVIT Lab, IIIT Hyderabad</a> 
+      institution: <a href="https://www.iiit.ac.in/"> IIIT Hyderabad</a> 
+      department: <a href="https://cvit.iiit.ac.in/" title="CVIT Lab">CVIT Lab</a> 
       year: MAY 2019 - JUL 2019
       location: Hyderabad, India
       description:
