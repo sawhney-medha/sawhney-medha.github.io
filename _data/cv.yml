@@ -36,6 +36,10 @@
 - title: Corporate Experience
   type: time_table
   contents:
+  - title: Deep Learning Intern
+      institution: <a href="https://www.nvidia.com/en-us/"> NVIDIA </a>
+      year: MAY 2024 - AUG 2024
+      location: Santa Clara
     - title: Machine Learning Engineering Intern
       institution: <a href="https://about.twitter.com/en"> Twitter </a>
       year: JUN 2022 - AUG 2022
