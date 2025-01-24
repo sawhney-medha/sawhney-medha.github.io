@@ -1,25 +1,30 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Computer Science Ph.D. Student at Virginia Tech
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: News # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Greetings! I am a PhD student in the Computer Science department at [Virginia Tech](https://cs.vt.edu) under the guidance of my advisor [Dr. Anuj Karpatne](https://people.cs.vt.edu/karpatne/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am part of the [Knowledge Guided Machine Learning Lab](https://kgml-lab.github.io/), where my research lies at the intersection of machine learning and scientific discovery. Currently, my focus is on solving inverse problems in physics through generative AI, leveraging diffusion models and physics-informed neural networks. My earlier work explored the intersection of biology and computer vision, particularly studying cell behaviors and bacterial motility.
+
+
+During my PhD, I have interned as a Machine Learning Engineer Intern (MLE) at [Twitter](https://about.twitter.com/en) and [NVIDIA](https://www.nvidia.com/en-us/), where I gained valuable experience applying cutting-edge techniques in AI. Prior to starting my PhD, I worked as a full-time ML Engineer at [HP](https://www.hp.com/us-en/home.html), Bangalore, and hold a Bachelor’s in Electronics and Communication Engineering from [Manipal Institute of Technology, MAHE, Manipal, India](https://manipal.edu/mit.html).
+
+
+Feel free to get in touch—I’m excited to collaborate and connect!
