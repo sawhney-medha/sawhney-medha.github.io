@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 date: 2025-05-29
 inline: true
