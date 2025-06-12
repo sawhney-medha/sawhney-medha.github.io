@@ -404,7 +404,7 @@ ninja.data = [{
           section: "News",},{id: "news-rocket-excited-to-announce-that-our-paper-vlm4bio-a-new-benchmark-dataset-for-vision-language-models-has-been-accepted-to-neurips-2024-this-work-introduces-a-comprehensive-benchmark-tailored-for-evaluating-vision-language-models-in-the-context-of-biological-data-page-facing-up-paper-computer-code",
           title: ':rocket: Excited to announce that our paper, “VLM4Bio: A New Benchmark Dataset for...',
           description: "",
-          section: "News",},{id: "news-tada-i-finally-have-an-iclr-paper-thrilled-to-share-that-our-paper-a-unified-framework-for-forward-and-inverse-problems-in-subsurface-imaging-using-latent-space-translations-has-been-accepted-to-iclr-2025-page-facing-up-paper-computer-code",
+          section: "News",},{id: "news-tada-i-finally-have-an-iclr-paper-thrilled-to-share-that-our-paper-a-unified-framework-for-forward-and-inverse-problems-in-subsurface-imaging-using-latent-space-translations-has-been-accepted-to-iclr-2025-page-facing-up-paper-computer-project-page",
           title: ':tada: I finally have an ICLR paper! Thrilled to share that our paper,...',
           description: "",
           section: "News",},{id: "projects-project-1",
