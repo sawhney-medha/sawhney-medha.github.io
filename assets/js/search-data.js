@@ -407,7 +407,7 @@ ninja.data = [{
           section: "News",},{id: "news-tada-i-finally-have-an-iclr-paper-thrilled-to-share-that-our-paper-a-unified-framework-for-forward-and-inverse-problems-in-subsurface-imaging-using-latent-space-translations-has-been-accepted-to-iclr-2025-page-facing-up-paper-computer-project-page",
           title: ':tada: I finally have an ICLR paper! Thrilled to share that our paper,...',
           description: "",
-          section: "News",},{id: "news-two-posters-accepted-at-cvpr-2025-workshop-1-physics-guided-diffusion-neural-operators-for-solving-forward-and-inverse-pdes-2-scientific-equation-discovery-using-modular-symbolic-regression-via-vision-language-guidance",
+          section: "News",},{id: "news-two-posters-accepted-at-cvpr-2025-workshop-1-physics-guided-diffusion-neural-operators-for-solving-forward-and-inverse-pdes-2-scientific-equation-discovery-using-modular-symbolic-regression-via-vision-language-guidance-excited-to-share-that-we-ll-also-be-giving-a-lightning-talk-at-the-workshop-looking-forward-to-the-discussion",
           title: 'Two posters accepted at CVPR 2025 Workshop - 1) “Physics-guided Diffusion Neural Operators...',
           description: "",
           section: "News",},{id: "news-our-paper-on-open-world-scene-graph-generation-using-vision-language-models-got-accepted-at-cv-in-wild-workshop-at-cvpr-2025",
